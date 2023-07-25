@@ -17,7 +17,7 @@
 
     .post-btn:hover { /* hover permite establecer un segundo estado en cualquier elemento */
         background-color: white;
-        color: blue;
+        color: blueviolet;
     }
 </style>
 
